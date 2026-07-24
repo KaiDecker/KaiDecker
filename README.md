@@ -61,20 +61,16 @@
 `Computer Science 408` · `CS61A` · `CS61B` · `CS50`  
 `Statistical Modeling` · `Regression Analysis` · `Mathematical Statistics`
 
-**学业概览**
+**学业概览（截至2026-07-24）**
 
 - GPA：**3.66 / 4.00**
-- 平均成绩：**88.64 / 100**
-- 2025–2026 学年专业排名：**7**
-- 代表课程：实变函数 **96**、数理统计 **95**、人工智能导论 II **94**、回归分析 **89**
+- 代表课程：数学分析、高等代数、实变函数、数理统计、运筹学、回归分析
 
 详细课程记录见 [Coursework](https://kaidecker.github.io/coursework/)。
 
 ## 代码之外
 
 Steam 游戏库存经常比空闲时间增长得更快。最喜欢的游戏是 **Undertale**，也喜欢弹吉他。
-
-有时写代码，有时研究模型，有时只是试图把一首歌弹得没那么像程序报错。
 
 ## 联系我
 
