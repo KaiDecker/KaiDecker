@@ -1,82 +1,198 @@
-<div align="center">
-  <img src="https://github.com/KaiDecker.png" width="112" alt="KaiDecker avatar" />
+<div align="center">   <img src="https://github.com/KaiDecker.png" width="108" alt="KaiDecker avatar" />
 
-  <h1>咸蛋超人迪卡 / KaiDecker</h1>
+  <h1>KaiDecker</h1>
+
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&width=720&lines=Statistics+%E2%86%92+CS+Foundations+%E2%86%92+Systems+%26+Agents;Building+AgentBenchOps+%26+Modellion;Learning+in+public"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=2800&pause=1200&color=0969DA&center=true&vCenter=true&width=720&lines=Statistics+%E2%86%92+CS+Foundations+%E2%86%92+Systems+%26+Agents;Building+AgentBenchOps+%26+Modellion;Learning+in+public"
+    />
+    <img
+      alt="Statistics to CS Foundations to Systems and Agents"
+      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=2800&pause=1200&color=0969DA&center=true&vCenter=true&width=720&lines=Statistics+%E2%86%92+CS+Foundations+%E2%86%92+Systems+%26+Agents;Building+AgentBenchOps+%26+Modellion;Learning+in+public"
+    />
+  </picture>
 
   <p>
-    统计学本科生<br>
-    Statistics undergraduate
+    Statistics Undergraduate
   </p>
 
   <p>
-    <a href="https://kaidecker.github.io/">个人网站 / Website</a>
-    ·
-    <a href="https://github.com/KaiDecker?tab=repositories">项目 / Repositories</a>
-    ·
-    <a href="mailto:reunited9130@bjfu.edu.cn">Email</a>
+    <a href="https://kaidecker.github.io/">
+      <img src="https://img.shields.io/badge/WEBSITE-KAIDECKER.GITHUB.IO-181717?style=for-the-badge&logo=githubpages&logoColor=white" alt="Website" />
+    </a>
+    <a href="https://github.com/KaiDecker">
+      <img src="https://img.shields.io/badge/GITHUB-KAIDECKER-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    <a href="mailto:[reunited9130@bjfu.edu.cn](mailto:reunited9130@bjfu.edu.cn)">
+      <img src="https://img.shields.io/badge/EMAIL-CONTACT_ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
   </p>
 </div>
 
 ---
 
-## 你好，我是咸蛋超人迪卡
+## 👋 About Me
 
-目前就读于 **北京林业大学统计学专业**。
+I am a **Statistics undergraduate at Beijing Forestry University**.
 
-仍然在学习统计学相关知识，同时补充相关的计算机基础。
+Statistics is where I started. Along the way, I have been systematically building my computer science foundations and gradually moving toward **backend engineering, systems, and agent infrastructure**.
 
-现在主要关注：
+```text
+kai@github:~$ status
+
+🎓 studying    Statistics @ Beijing Forestry University
+🔭 building    AgentBenchOps · Modellion
+🌱 learning    CS408 · CS61A · CS61B
+🧠 exploring   Backend · Systems · Agent Evaluation
+🎯 next        Graduate study in Computer Science
+```
+
+My current interests lie at the intersection of:
 
 `Agent Engineering` · `Backend Development` · `Machine Learning` · `Software Testing` · `Data Analysis`
 
-未来希望跨考计算机相关硕士。
+---
 
-> I am a Statistics undergraduate at Beijing Forestry University, exploring agent systems, backend engineering, machine learning, software testing, and data analysis.
+## 🚀 Featured Work
 
-## 最近在做
+### [AgentBenchOps](https://github.com/KaiDecker/agent-bench-ops)
 
-- 完善 **AgentBenchOps**，继续理解工具调用 Agent 的评测、可观测性与故障恢复。
-- 通过项目巩固数据结构、计算机组成原理、操作系统与计算机网络。
-- 把统计建模课程中的方法，变成能够复现、解释和使用的分析项目。
+**Observable and recoverable evaluation infrastructure for tool-using agents.**
 
-## 精选项目
+An auditable execution platform connecting benchmark plans, agent runtime, tool execution, checkpoints, recovery, and evaluation.
 
-| 项目 | 简介 | 关键词 |
-|---|---|---|
-| [AgentBenchOps](https://github.com/KaiDecker/agent-bench-ops) | 可观测、可恢复的工具调用 Agent 评测平台。 | Python · Agent · Evaluation · Backend |
-| [CUMCM 2025 · B](https://github.com/KaiDecker/CUMCM-2025-B) | 2025 年全国大学生数学建模竞赛 B 题的论文、代码与支撑材料归档。 | Modeling · Data Analysis · Jupyter |
-| [PlateReader-YOLOv8](https://github.com/KaiDecker/PlateReader-YOLOv8) | 基于 YOLOv8 的车牌检测与识别实验。 | Python · YOLOv8 · Computer Vision |
-| [CS50](https://github.com/KaiDecker/CS50) | CS50 课程练习，记录从 C、算法与数据结构开始的计算机科学学习。 | C · Python · Computer Science |
+`Python` · `Agent Evaluation` · `Backend` · `Observability` · `PostgreSQL`
 
-更多内容见我的 [个人网站](https://kaidecker.github.io/) 和 [全部仓库](https://github.com/KaiDecker?tab=repositories)。
+---
 
-## 学习与技术
+### [Modellion](https://github.com/KaiDecker/modellion)
 
-**使用过的语言**
+**A skill-first toolkit for auditable mathematical-modeling agents.**
 
-`Python` · `Java` · `C++` · `C`
+A structured modeling workflow combining LLM semantic judgment, deterministic Python execution, persistent artifacts, and independent evaluation.
 
-**课程与基础**
+`Python` · `Agent Workflow` · `Evaluation` · `Artifacts` · `Mathematical Modeling`
 
-`Computer Science 408` · `CS61A` · `CS61B` · `CS50`  
-`Statistical Modeling` · `Regression Analysis` · `Mathematical Statistics`
+---
 
-**学业概览（截至2026-07-24）**
+### [CUMCM Agentic RAG](https://github.com/KaiDecker/cumcm-agentic-rag)
 
-- GPA：**3.66 / 4.00**
-- 代表课程：数学分析、高等代数、实变函数、数理统计、运筹学、回归分析
+**Auditable Agentic RAG infrastructure for mathematical-modeling research and decision support.**
 
-详细课程记录见 [Coursework](https://kaidecker.github.io/coursework/)。
+Built around evidence provenance, human review, citation fidelity, deterministic retrieval, and regression evaluation rather than unconstrained answer generation.
 
-## 代码之外
+`Python` · `Agentic RAG` · `Retrieval` · `Evaluation` · `Provenance`
 
-Steam 游戏库存经常比空闲时间增长得更快。最喜欢的游戏是 **Undertale**，也喜欢弹吉他。
+<p align="right">
+  <a href="https://github.com/KaiDecker?tab=repositories">more repositories →</a>
+</p>
 
-## 联系我
+---
 
-- 校园邮箱：[reunited9130@bjfu.edu.cn](mailto:reunited9130@bjfu.edu.cn)
-- QQ 邮箱：[2280203395@qq.com](mailto:2280203395@qq.com)
+## 📊 GitHub Activity
 
 <div align="center">
-  <sub>Beijing, China · learning in public</sub>
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KaiDecker&theme=github_dark&animation=load"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KaiDecker&theme=github&animation=load"
+    />
+    <img
+      width="100%"
+      alt="KaiDecker GitHub profile details"
+      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KaiDecker&theme=github"
+    />
+  </picture>
+</div>
+
+---
+
+## 🧰 Learning & Toolkit
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
+<img src="https://img.shields.io/badge/LANGGRAPH-7FC8FF?style=for-the-badge&logo=langgraph&logoColor=black" alt="LangGraph" />
+
+</div>
+
+<br>
+
+**Computer Science**
+
+`Computer Science 408` · `CS61A` · `CS61B` · `CS50`
+
+**Statistics**
+
+`Statistical Modeling` · `Regression Analysis` · `Mathematical Statistics`
+
+<details>
+<summary><strong>📚 Academic Snapshot</strong></summary>
+
+<br>
+
+As of August 13, 2026:
+
+* GPA: **3.7 / 4.0**
+* Representative coursework:
+
+  * Mathematical Analysis
+  * Advanced Algebra
+  * Real Analysis
+  * Mathematical Statistics
+  * Operations Research
+  * Regression Analysis
+
+More coursework and learning records:
+
+→ [Coursework](https://kaidecker.github.io/coursework/)
+
+</details>
+
+---
+
+## 🎮 Away From Keyboard
+
+My Steam library tends to grow faster than my free time.
+
+My favorite game is **Undertale**.
+
+I also play guitar from time to time, and occasionally try to convince myself that this commit is valid:
+
+```text
+$ git commit -m "play games after finishing today's work"
+```
+
+---
+
+<div align="center">
+
+**Beijing, China**
+
+`learning in public · building things · still figuring things out`
+
+<br><br>
+
+<a href="https://kaidecker.github.io/">
+  <img src="https://img.shields.io/badge/WEBSITE-VISIT-0969DA?style=flat-square&logo=githubpages&logoColor=white" alt="Website" />
+</a>
+<a href="mailto:[reunited9130@bjfu.edu.cn](mailto:reunited9130@bjfu.edu.cn)">
+  <img src="https://img.shields.io/badge/BJFU_MAIL-CONTACT-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="BJFU Mail" />
+</a>
+<a href="mailto:[2280203395@qq.com](mailto:2280203395@qq.com)">
+  <img src="https://img.shields.io/badge/QQ_MAIL-CONTACT-12B7F5?style=flat-square&logo=tencentqq&logoColor=white" alt="QQ Mail" />
+</a>
+
 </div>
